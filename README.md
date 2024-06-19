@@ -4,10 +4,10 @@ git clone https://github.com/Mnuralim/bot-sonic-sol.git
 2️⃣ Cd:
 cd bot-sonic-sol
 
-3️⃣ Instal Dependencies:
+3️⃣ Instal npm:
 npm install
 
-4️⃣ Konfigurasi .env File: 
+4️⃣ config .env File: 
 Create an
 .env
 File in the root Project.
