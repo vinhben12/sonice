@@ -1,3 +1,5 @@
+Tạo workpace: https://github.com/Mnuralim/bot-sonic-sol.git
+
 1️⃣ Clone Repositori:
 git clone https://github.com/Mnuralim/bot-sonic-sol.git
 
